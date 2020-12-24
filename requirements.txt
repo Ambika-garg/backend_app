@@ -1,0 +1,23 @@
+certifi==2020.12.5
+chardet==4.0.0
+fastapi==0.63.0
+gcloud==0.18.3
+googleapis-common-protos==1.52.0
+httplib2==0.18.1
+idna==2.10
+jws==0.1.3
+oauth2client==4.1.3
+protobuf==3.14.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycryptodome==3.9.9
+pydantic @ file:///C:/ci/pydantic_1606863445812/work
+Pyrebase4==4.4.3
+python-jwt==2.0.1
+requests==2.25.1
+requests-toolbelt==0.9.1
+rsa==4.6
+six==1.15.0
+starlette==0.13.6
+urllib3==1.26.2
+wincertstore==0.2
