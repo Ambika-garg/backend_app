@@ -2,6 +2,7 @@ import pyrebase
 from fastapi import FastAPI, File, UploadFile, Request
 from pydantic import BaseModel
 
+
 from googlevision import upload_file_to_gs, async_detect_document
 
 app = FastAPI()
