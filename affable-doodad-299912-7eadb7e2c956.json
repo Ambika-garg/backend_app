@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "affable-doodad-299912",
+  "private_key_id": "7eadb7e2c956f68e494c381f26b97d55e0e0ae14",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1ce6BxZV+bkWK\nSmrJ/EUA5x7m/T99NnvpT1ofqsRhAJqVabsADwDDZyB5MJlCfXWCtWKGRkFwSogg\niTUhxldcCLpQWj98hyTJ0qQqndhvKLBZklIVuAzerfqVzJlbrCvlguMI87+LfmY7\niKAUuZ4gV6pQ9qF4F5BUC9osRZJ7h/oAin3okblX4jZGybg/RE1NEIMhO6a0AV00\n+GuTOl480mKxLDyfSAhtwm9g6giVRo/Uig7cCIt1oDaWpWk7ksVLxAHKSjw9Kzo6\nMTlHoKPSSbAgI4CxQm1tMLCLtNWai6fsKLUa3T1CCX2pkKTopTQKtmGwARAHf/Wb\nTphpUPh3AgMBAAECggEAOJyzrgnX+vqs99kAOMVdQkraeXfKt2aogsMfe4Hsg9eM\nY9H5ZqtHsbAbkbR4HSbH42B0vTBuenrGvmARE9iuqSiP+UIvTMtdzxrJ3gIh5Yzs\neQYOVnh2i4P9C4Aq2U9+4r1T2Rc0THHDtA+M4uqHS9AOc/R/rNitT4vjJq0OZzwf\nUWZ+zhIIucUvtbZyAtJheDEasuViJQIhFWtrZRp0XHAwVjKKp0+RWEOAzTJnSp8w\no7R8p4PZM2iSt6fPq5ZJ302Znx7shvHi3vv90YrmMfJlqnvehfLnlVIiK44Fz6ab\nNBQg0V4YX0WJvqHo6tyEwv8eiBas2PfZROtPADR2AQKBgQDfTuuFk5vC1mJ73UwM\nvfpDDBnZBizinkEWUqmZjkIn6heUn4LReUmhv6yejmf4IAIs6kcXp+jUm24SYgEl\nTd/HKEneoVN0UAcnP35T2mzwsWjF4L+5bG1d0+YqQwyV2RV2/TZj/rXJirMKUMjU\n9e4qDXcVktV5UErKMUGMYmIgmQKBgQDQAhLy3cOZabAV0ZObkHVBAdUtD3BBWc3S\naFxudRJVr54zWO/rBmqpfIwWUnfKyVFEB9f+dwWqJEoaL+cUAtuWgbsgmNT7iJqJ\nWnZxE1pDZK1W2zbLpysGrppbC48xXL/FO0YvygoVmh5AA7OvvPaK/zOo+AwT6m3U\nhNXpbdm7jwKBgQCX/SE0s3jqrfwuDjs62PtDMzNMkXVvcQMf7Hde+oJwpFYUZFUn\nugOxwcH90TNWoIKai4KDyVchjgDnJildeJl89iEBFJC2s9mKjx6ueBZ55GZJeGVG\nEVSG7jjUPvqL60s+x62DddPJL0wZE07+E71chfmth1kgztN4tvnEURo00QKBgFmu\nizzrIEokpybBFUMdJXDBuYeUAHIspfDxzehR0XXgIfVBgy9xtMseR8fYBo4H/mG2\ngAnWhzq0Kr7fqGGYWdSqWmPTgQByBS7zMd3O2jv0TEgGe7mSeZqH7UUT1skRlB0V\nUU2Jbo+hwykWb4J1llaXcU6Io6xyhqf6HcBm/FlBAoGBAMmQ7a9vbWIiPn2FEyoO\njbsIMl29P0t8l6X3f7jWf9Mtsjrn8rwSnXYzZEBtQeIZvO88VzLqnvNrhjdVXOvL\ng2/ncZn54uVG10DqRFrPzJOF3wGAmdCTIBEWJVHxsIT1JBK7DCmVg2zJksb04/MY\nl/X2lNoAdBIYnU8PnYak9Tz/\n-----END PRIVATE KEY-----\n",
+  "client_email": "ambika@affable-doodad-299912.iam.gserviceaccount.com",
+  "client_id": "109528327223792895869",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ambika%40affable-doodad-299912.iam.gserviceaccount.com"
+}

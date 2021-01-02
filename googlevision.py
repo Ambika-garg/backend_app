@@ -7,7 +7,7 @@ import traceback
 from google.cloud import storage
 from google.cloud import vision
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r'backend/focus-sequencer-293417-50218e580033.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r'affable-doodad-299912-7eadb7e2c956.json'
 # gs://amul/aadhar cards (2).pdf
 client = vision.ImageAnnotatorClient()
 batch_size = 2
@@ -15,14 +15,14 @@ mime_type = 'application/pdf'
 # gcs_source_uri='gs://amul/aadhar cards (8).pdf'
 
 storage_client = storage.Client()
-bucket = storage_client.get_bucket('harshitgoel')
+bucket = storage_client.get_bucket('ambika-garg')
 
 
 
 def upload_file_to_gs(file, filename):
     blob = bucket.blob(filename)
     blob.upload_from_file(file)
-    return 'gs://harshitgoel/' + blob.name
+    return 'gs://ambika-garg/' + blob.name
 
 
 def async_detect_document(gcs_source_uri, gcs_destination_uri):
