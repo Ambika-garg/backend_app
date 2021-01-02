@@ -45,7 +45,8 @@ class issue(BaseModel):
 @app.post("/Customer_issues/")
 def get_customer_issue(item: issue):
     print([item.email, item.message])
-    return [item.email, item.message]
+    return {"email": item.email, "message": item.message}
+
 
 def database(text):
     data = {"Adhar card detail": text}
