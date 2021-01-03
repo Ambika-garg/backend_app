@@ -27,11 +27,11 @@ def create_upload_item(pdf: UploadFile = File(...)):
     """
     # save the file
     input_path = upload_file_to_gs(pdf.file, pdf.filename)
-    output_path = 'gs://ambika-garg/output/' + pdf.filename
+    output_path = 'gs://harshitgoel/output/' + pdf.filename
 
     text = async_detect_document(input_path, output_path)
     print(text)
-    database(text)
+    # database(text)
     # config to database
 
     return {'input_path': input_path, 'output_path': output_path, 'text': text}

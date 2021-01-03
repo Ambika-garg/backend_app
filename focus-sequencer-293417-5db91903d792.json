@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "focus-sequencer-293417",
+  "private_key_id": "5db91903d7920ed7b46efcbd00efbe77ecf340c1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCphOXCvwB6D+jo\nf1OFj9CnVLqxQx+Q6S2Ufgg6Q6P+K3dPE+pUMyTxSeGXBJWImxenihpS6w/dh0UZ\nH0v8LERhxQD79L2nhY5oeTJXOtF88Rs99h2elH1l6qWd4iCr4mrRYCh344yQ10DH\n7BnTkH7+7Wyr0C6CrMqYmt7pSLIjlVMpIZ5cGSEucF0yPVVRdGbcRV5Yf0d4Nwzj\n1hxsGkgs/OHCpNncggcPyB6VGrajpn7gFBYSSTbd6trVGPKawmuD4kES7jlAE3Uz\n+3eDl1Edlz9cqB/3Hd5oWDb/PLx4MR/quOo6fsh5WYxo3BmOobsPKVrsMDhm7FCm\nc1lkVV7jAgMBAAECggEAB43hEUcitc3MssOtzKdmhHZtpWWY3APQIKxnIHWQMszs\nEa2RBTSMQmZo86pkIYTLzo8EckqAV/5lsWNoJvIwD+1QCGpVI0h72qL//8witr8l\n2CKGGmGCnw6QV9NSYmaCHRd8Zi9RPckh3Wbjlb58Mk8RRyzNTcx2cMuCAIJZUeWM\ngbWglwkK1Ao/R0CvCP/IjnPf/GxHywwldGjcwD+DT8kYj0aHpghSigeRQiOEGovw\nROYB8puJmnJuNnSaaayuTWd3Go12otFGQa2c0GQlqHjOIJFbhjhD2Vrcwk99GkTX\nCzDQA5deYqJO9YeoCm42+4dH8TXiy/utLbdYgSKD8QKBgQDhdK/pi/UkeuVcDvu1\nkYzkEdXzVdafknoJBsqMBQT0ppLr1EgA5vlGMmR/HEfWpgh3o1zxxLeA7Gap9y98\nj0ehHnrt2zxv3fpoRG29DZxlY0h3Eye73KGzn6y0Hxk0loTB+3dWhMOZFKyNQdj8\nbUgIhdpR3KyO98Gz+fnhGbNRcQKBgQDAfDNxsq0uWfOjWHeNG01GX/uV75H6TzGv\nchOof5qaMZIe6/G8/cbDjSFq0PtZ0800Fm3f68o7AcYM8BKrzC8Dil7/PcfcB4NT\nxCGmH9FHn/hjcyO69siY6dROIpq1AH1P3PLYAKTKgC7OsVLUt/cXfrkaHEiJfrpP\nagdo6NnLkwKBgQDT6zzXCClbKvGggKz01GVck69J1SuyPprbFTkaODWaSWDcr2Mn\nBfTVmNSB7nFQQCzBWBsrXj8mvg8aQDCwonUv61idb2/1ru+LRpboF30kiBg7ZRP6\nL78G+lX50Sl+FuWe+OIJvy2kHJy9AmIVlBsbd8XpIMZKdHPs2lGY1vGI4QKBgEhT\nIr1ZBsuAzxQUXK9vj8SeshivcOldsmya75oDgGLpt17ZBvcdX/8AW4sYRSmGdPda\naiSWI2Gyk+kul8Vnrk6lQnajjyI0zHrAGmiiUe+YwysTC1zn943FZpmJVRonue41\nNiZFb6YLLgtKA7ab/UMdwY13DSZksLrAO1KHE7bzAoGBAMDTIlVS6EWg6FKcIrGi\nHg+0nK1TytdcTLlul/nEJybhRqNPY8DdwI54fSx0ewQHxx+7kwXFV7r6yPMUqL96\nlSavzxbCEwpPnaGvuNKtQPhublGhW01pXVrdIBPhrWCtezlF4vBIAIulGLtqKv6W\nkDLt014sXIWRjF9SsBV+pTtw\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-643@focus-sequencer-293417.iam.gserviceaccount.com",
+  "client_id": "114381862014818830959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-643%40focus-sequencer-293417.iam.gserviceaccount.com"
+}
